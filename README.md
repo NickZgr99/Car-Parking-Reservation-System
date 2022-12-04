@@ -1,4 +1,4 @@
-# Car-Parking-Reservation-System
+# Car Parking Reservation System C++
 
 SIMPLE CAR PARKING RESERVATION SYSTEM PROJECT IN C++
 
