@@ -2,6 +2,10 @@
 
 SIMPLE CAR PARKING RESERVATION SYSTEM PROJECT IN C++
 
+
+##### !!!!! TO RUN THE PROGRAM YOUR SYSTEM MUST HAVE Code::Blocks OR ANOTHER C++ IDE !!!!!
+
+
 LOGIN INFO:
 
 The user will have to pass through a login system before entering the car park and once he has logged in, 
