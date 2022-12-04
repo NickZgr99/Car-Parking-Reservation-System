@@ -10,7 +10,7 @@ he will be given more information about the available parking lots.
 The parking system will require specific details
 about the user and their vehicle, like the license plate, the name of the driver, etc.
 
-                                                                MENU
+                                             MENU
 ![image_menu](https://user-images.githubusercontent.com/92955954/205498100-f151fb4b-88a3-49a8-869c-d7eaba230d42.png)
 
 
@@ -31,8 +31,8 @@ The parking reservation system can be used by 3 types of users, namely a user, a
 Admins and staff members can use the parking any time of the day for free, while users pay for a reservation depending on the number of hours
 their vehicle will be parked for.
 
-                                                                USER MENU
+                                              USER MENU
 ![image_user_menu](https://user-images.githubusercontent.com/92955954/205498541-61ec2cbf-222c-465b-b425-299f580b27fd.png)
 
-                                                                ADMIN MENU
+                                              ADMIN MENU
 ![image_admin_menu](https://user-images.githubusercontent.com/92955954/205498571-3a9979e9-2f86-451e-932b-ba559ad73427.png)
