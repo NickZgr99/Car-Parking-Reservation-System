@@ -39,10 +39,10 @@ public:
     list<string> Available_Car_Lots;
     list<string> Used_Car_Lots;
 
-    // A map container that will connect added cars with the Vehicle they contain
+    // A map container that will connect added car lots with the Vehicle they contain
     multimap<string, Vehicle> Lot_Veh_Map;
 
-    // A map container that will connect added cars with their parking lots
+    // A map container that will connect users with their parking lots
     multimap<string, string> User_Lot_Map;
 
     // A map container that will connect parking lots with the total cost of them.
