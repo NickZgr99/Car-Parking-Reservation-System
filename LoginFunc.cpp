@@ -572,7 +572,7 @@ void LoginSystem::login_user(string username, string password)
                 logged_in_user_p = "";
                 menu();
             }
-            else if(choice == "11")
+            else if(choice == "9")
             {
                 system("cls");
                 exit(0);
